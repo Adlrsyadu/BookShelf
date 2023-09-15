@@ -1,2 +1,2 @@
 # BookShelf
-Proyek submission Front-end Web.Dicoding 
+Proyek submission aplikasi pengelolaan data menggunakan DOM dan Web Storage
